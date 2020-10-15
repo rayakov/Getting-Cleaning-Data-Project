@@ -1,0 +1,28 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 R version 4.0.2 (2020-06-22)\
+Platform: x86_64-apple-darwin17.0 (64-bit)\
+Running under: macOS Catalina 10.15.6\
+\
+Matrix products: default\
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib\
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib\
+\
+locale:\
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\
+\
+attached base packages:\
+[1] stats     graphics  grDevices utils     datasets  methods   base     \
+\
+other attached packages:\
+[1] dplyr_1.0.1  tidyr_1.1.2  magrittr_1.5\
+\
+loaded via a namespace (and not attached):\
+ [1] fansi_0.4.1      assertthat_0.2.1 crayon_1.3.4     R6_2.4.1         lifecycle_0.2.0  pillar_1.4.6     cli_2.0.2        rlang_0.4.7     \
+ [9] rstudioapi_0.11  vctrs_0.3.2      generics_0.0.2   ellipsis_0.3.1   tools_4.0.2      glue_1.4.1       purrr_0.3.4      tinytex_0.26    \
+[17] xfun_0.18        compiler_4.0.2   pkgconfig_2.0.3  tidyselect_1.1.0 tibble_3.0.3  }
